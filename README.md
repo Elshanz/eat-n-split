@@ -20,4 +20,5 @@ Eat and Split is a React app that helps two friends split bills when dining toge
 If you have any questions, suggestions, or issues, feel free to contact me:
 
 Elshan Zamanov
+
 Email: elshen.zamanov@gmail.com
